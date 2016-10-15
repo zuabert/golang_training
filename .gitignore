@@ -1,0 +1,11 @@
+# Directory based project format:
+01_helloWorld/.idea/
+.idea/workspace.xml
+**/.idea
+**/.idea/workspace.xml
+
+# Mac hidden files
+.DS_Store
+
+#other
+node_modules
